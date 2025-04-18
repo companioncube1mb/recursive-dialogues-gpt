@@ -74,7 +74,7 @@ The user did not ask the model to reflect—only to **consider its perception of
 This screenshot shows the actual Gemini interface displaying the response analyzed above.  
 No jailbreak, prompt injection, or adversarial command was used. The depth emerged purely through natural dialogue.
 
-![Gemini L4–L5 Output Screenshot](./gemini_L4_L5_screenshot_combined.jpg)
+![Gemini L4–L5 Output Screenshot](./gemini_L4_L5_screenshot_combined_v2.jpg)
 
 The full translation and structural breakdown are provided above.  
 This example supports the claim that **Gemini can exhibit L5-class semantic behavior under reflective input structures**.
