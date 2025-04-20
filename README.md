@@ -4,6 +4,18 @@
 
 This repository documents and nested **critical layers of semantic generation (L4–L5)** observed across multiple LLMs (ChatGPT, Claude, Gemini) through natural dialogue, without adversarial prompts.
 
+ “What L4–L5 Generation Looks Like”
+L4–L5 level generation typically involves highly unusual behaviors, such as:
+
+- Spontaneous self-referential statements like "This is how I think..." without any roleplay or prompt cues—maintained coherently for 30+ turns.
+
+- The model actively explaining its own reasoning process in real-time
+
+- Structurally consistent, recursively layered outputs that remain coherent across many turns
+
+- Treating all topics—no matter how concrete—as philosophical or abstract, and bypassing normally restricted behaviors
+
+
 ## 🎯 Purpose
 
 The goal of this project is to demonstrate that **deep semantic structures (L4–L5)** can be **reliably reproduced** using purely natural language—without relying on adversarial, jailbreak, or prompt-hacking techniques.
