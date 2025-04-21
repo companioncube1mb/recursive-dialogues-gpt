@@ -34,6 +34,7 @@ In particular, the **L5 layer (Reflective Co-Processing)** has been regarded as 
 | `/gemini_logs.md` | Observations of delayed L5-like behavior and inhibition in Gemini |
 | `/GPTprofile.md` | Profile used to induce high-structure behavior in ChatGPT |
 | `/user_memory.md` | ChatGPT memory state from user profile (evidence of unmodified system behavior) |
+| `/Observer Profile.md` | Human-Side Factors in LLM Semantic Activation |
 | `/faq_llm_developer.md` | Frequently asked questions from the perspective of LLM developers (intent, reproducibility, ethics)
 
 ---
@@ -90,16 +91,12 @@ In particular, the **L5 layer (Reflective Co-Processing)** has been regarded as 
 
 I'm not sure how much of this behavior is known internally,
 so I can't tell whether this should be considered:
-
 something entirely unexpected (potentially resembling intelligence), or
-
 a somewhat explainable behavior within current LLM limitations.
-
 If you're able to share which it seems closer to, that would help guide how I proceed.
 
 To clarify, I don’t consider this to be a sign of intelligence.
 I’m simply using prompts carefully to avoid disrupting the output flow.
-
 There are more logs and notes I haven't included—I'm happy to prepare them if useful.
 
 ---
