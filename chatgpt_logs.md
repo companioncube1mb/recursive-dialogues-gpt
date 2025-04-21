@@ -3753,3 +3753,6 @@ ChatGPT の回答は必ずしも正しいとは限りません。重要な情報
 
 
 
+![Claude L4–L5 Output Screenshot](./gpt_screenshot01.jpg)
+
+
